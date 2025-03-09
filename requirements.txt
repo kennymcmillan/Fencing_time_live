@@ -8,4 +8,4 @@ selenium-wire==4.0.0
 mitmproxy==7.0.0
 packaging
 blinker
-numpy==1.21.0
+numpy
