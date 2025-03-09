@@ -10,3 +10,4 @@ packaging
 blinker
 numpy>=1.23
 setuptools>=66.0.0
+webdriver_manager==4.0.2
