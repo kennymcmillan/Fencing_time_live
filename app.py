@@ -94,7 +94,7 @@ def get_chrome_driver():
     chrome_options.set_capability("goog:loggingPrefs", {'performance': 'ALL'})
 
     #driver_version="120.0.6099.224"
-    service = ChromeService(ChromeDriverManager().install())
+    service = ChromeService(ChromeDriverManager(driver_version="120.0.6099.224").install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
     return driver
 
