@@ -1,14 +1,11 @@
 streamlit
-selenium
 pandas==1.3.0
 requests
 beautifulsoup4
 lxml
-webdriver_manager
-
-selenium
 selenium==4.0.0
 selenium-wire==4.0.0
 mitmproxy==7.0.0
 packaging
 blinker
+numpy==1.21.0
