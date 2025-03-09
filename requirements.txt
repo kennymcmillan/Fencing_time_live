@@ -9,3 +9,4 @@ mitmproxy==7.0.0
 packaging
 blinker
 numpy>=1.23
+setuptools>=66.0.0
