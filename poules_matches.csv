@@ -1,0 +1,232 @@
+PoolNumber,Fencer1_Name,Fencer1_Nationality,Fencer1_Score,Fencer2_Name,Fencer2_Nationality,Fencer2_Score,Score,Winner
+Pool #1,IMAI Ryuto,JPN,5,LEE Matthew,NZL,1,5-1,IMAI Ryuto
+Pool #1,IMAI Ryuto,JPN,5,ABDELTAWAB Youssef,QAT,0,5-0,IMAI Ryuto
+Pool #1,IMAI Ryuto,JPN,5,MCCLELLAND Darcy,AUS,4,5-4,IMAI Ryuto
+Pool #1,IMAI Ryuto,JPN,5,ALJAHADHMIY Hamdan,UAE,4,5-4,IMAI Ryuto
+Pool #1,IMAI Ryuto,JPN,4,PROKHODOV Kirill,KAZ,5,4-5,PROKHODOV Kirill
+Pool #1,IMAI Ryuto,JPN,3,J AZIZEE Adam,MAS,5,3-5,J AZIZEE Adam
+Pool #1,LEE Matthew,NZL,3,ABDELTAWAB Youssef,QAT,5,3-5,ABDELTAWAB Youssef
+Pool #1,LEE Matthew,NZL,3,MCCLELLAND Darcy,AUS,5,3-5,MCCLELLAND Darcy
+Pool #1,LEE Matthew,NZL,0,ALJAHADHMIY Hamdan,UAE,5,0-5,ALJAHADHMIY Hamdan
+Pool #1,LEE Matthew,NZL,1,PROKHODOV Kirill,KAZ,5,1-5,PROKHODOV Kirill
+Pool #1,LEE Matthew,NZL,5,J AZIZEE Adam,MAS,4,5-4,LEE Matthew
+Pool #1,ABDELTAWAB Youssef,QAT,5,MCCLELLAND Darcy,AUS,2,5-2,ABDELTAWAB Youssef
+Pool #1,ABDELTAWAB Youssef,QAT,1,ALJAHADHMIY Hamdan,UAE,5,1-5,ALJAHADHMIY Hamdan
+Pool #1,ABDELTAWAB Youssef,QAT,2,PROKHODOV Kirill,KAZ,5,2-5,PROKHODOV Kirill
+Pool #1,ABDELTAWAB Youssef,QAT,5,J AZIZEE Adam,MAS,2,5-2,ABDELTAWAB Youssef
+Pool #1,MCCLELLAND Darcy,AUS,1,ALJAHADHMIY Hamdan,UAE,5,1-5,ALJAHADHMIY Hamdan
+Pool #1,MCCLELLAND Darcy,AUS,3,PROKHODOV Kirill,KAZ,5,3-5,PROKHODOV Kirill
+Pool #1,MCCLELLAND Darcy,AUS,5,J AZIZEE Adam,MAS,1,5-1,MCCLELLAND Darcy
+Pool #1,ALJAHADHMIY Hamdan,UAE,3,PROKHODOV Kirill,KAZ,5,3-5,PROKHODOV Kirill
+Pool #1,ALJAHADHMIY Hamdan,UAE,5,J AZIZEE Adam,MAS,1,5-1,ALJAHADHMIY Hamdan
+Pool #1,PROKHODOV Kirill,KAZ,5,J AZIZEE Adam,MAS,1,5-1,PROKHODOV Kirill
+Pool #2,GAURAV Gaurav,IND,5,HSU Jia Huan Kenton,HKG,4,5-4,GAURAV Gaurav
+Pool #2,GAURAV Gaurav,IND,5,SALARPOR Hossein,IRI,4,5-4,GAURAV Gaurav
+Pool #2,GAURAV Gaurav,IND,5,MUNKHKHASAR Ulaankhuu,MGL,1,5-1,GAURAV Gaurav
+Pool #2,GAURAV Gaurav,IND,5,LEE Benjamin Shijie,SGP,2,5-2,GAURAV Gaurav
+Pool #2,GAURAV Gaurav,IND,4,HAN Jungmin,KOR,5,4-5,HAN Jungmin
+Pool #2,GAURAV Gaurav,IND,4,AL HARTHI Al Harith,OMA,3,4-3,GAURAV Gaurav
+Pool #2,HSU Jia Huan Kenton,HKG,5,SALARPOR Hossein,IRI,1,5-1,HSU Jia Huan Kenton
+Pool #2,HSU Jia Huan Kenton,HKG,0,MUNKHKHASAR Ulaankhuu,MGL,5,0-5,MUNKHKHASAR Ulaankhuu
+Pool #2,HSU Jia Huan Kenton,HKG,5,LEE Benjamin Shijie,SGP,4,5-4,HSU Jia Huan Kenton
+Pool #2,HSU Jia Huan Kenton,HKG,4,HAN Jungmin,KOR,5,4-5,HAN Jungmin
+Pool #2,HSU Jia Huan Kenton,HKG,5,AL HARTHI Al Harith,OMA,2,5-2,HSU Jia Huan Kenton
+Pool #2,SALARPOR Hossein,IRI,3,MUNKHKHASAR Ulaankhuu,MGL,5,3-5,MUNKHKHASAR Ulaankhuu
+Pool #2,SALARPOR Hossein,IRI,4,LEE Benjamin Shijie,SGP,5,4-5,LEE Benjamin Shijie
+Pool #2,SALARPOR Hossein,IRI,1,HAN Jungmin,KOR,5,1-5,HAN Jungmin
+Pool #2,SALARPOR Hossein,IRI,5,AL HARTHI Al Harith,OMA,2,5-2,SALARPOR Hossein
+Pool #2,MUNKHKHASAR Ulaankhuu,MGL,2,LEE Benjamin Shijie,SGP,5,2-5,LEE Benjamin Shijie
+Pool #2,MUNKHKHASAR Ulaankhuu,MGL,4,HAN Jungmin,KOR,5,4-5,HAN Jungmin
+Pool #2,MUNKHKHASAR Ulaankhuu,MGL,3,AL HARTHI Al Harith,OMA,5,3-5,AL HARTHI Al Harith
+Pool #2,LEE Benjamin Shijie,SGP,3,HAN Jungmin,KOR,5,3-5,HAN Jungmin
+Pool #2,LEE Benjamin Shijie,SGP,3,AL HARTHI Al Harith,OMA,5,3-5,AL HARTHI Al Harith
+Pool #2,HAN Jungmin,KOR,5,AL HARTHI Al Harith,OMA,4,5-4,HAN Jungmin
+Pool #3,RAIYMBEKOV Barsbek,KGZ,2,LUKIN Bogdan,KAZ,5,2-5,LUKIN Bogdan
+Pool #3,RAIYMBEKOV Barsbek,KGZ,1,LIN Jhe-Cyun,TPE,5,1-5,LIN Jhe-Cyun
+Pool #3,RAIYMBEKOV Barsbek,KGZ,5,SANKII Lukatemuun,MGL,2,5-2,RAIYMBEKOV Barsbek
+Pool #3,RAIYMBEKOV Barsbek,KGZ,5,ASHWINI Shaurya,IND,4,5-4,RAIYMBEKOV Barsbek
+Pool #3,RAIYMBEKOV Barsbek,KGZ,4,YOSHIDA Soshi,JPN,5,4-5,YOSHIDA Soshi
+Pool #3,LUKIN Bogdan,KAZ,5,LIN Jhe-Cyun,TPE,3,5-3,LUKIN Bogdan
+Pool #3,LUKIN Bogdan,KAZ,5,SANKII Lukatemuun,MGL,4,5-4,LUKIN Bogdan
+Pool #3,LUKIN Bogdan,KAZ,5,ASHWINI Shaurya,IND,0,5-0,LUKIN Bogdan
+Pool #3,LUKIN Bogdan,KAZ,4,YOSHIDA Soshi,JPN,5,4-5,YOSHIDA Soshi
+Pool #3,LIN Jhe-Cyun,TPE,5,SANKII Lukatemuun,MGL,2,5-2,LIN Jhe-Cyun
+Pool #3,LIN Jhe-Cyun,TPE,5,ASHWINI Shaurya,IND,4,5-4,LIN Jhe-Cyun
+Pool #3,LIN Jhe-Cyun,TPE,5,YOSHIDA Soshi,JPN,2,5-2,LIN Jhe-Cyun
+Pool #3,SANKII Lukatemuun,MGL,5,ASHWINI Shaurya,IND,4,5-4,SANKII Lukatemuun
+Pool #3,SANKII Lukatemuun,MGL,3,YOSHIDA Soshi,JPN,5,3-5,YOSHIDA Soshi
+Pool #3,ASHWINI Shaurya,IND,4,YOSHIDA Soshi,JPN,5,4-5,YOSHIDA Soshi
+Pool #4,VEMANI Lokesh,IND,5,ANG Zi Jaye,MAS,1,5-1,VEMANI Lokesh
+Pool #4,VEMANI Lokesh,IND,3,LEPIKHOV Daniil,KGZ,5,3-5,LEPIKHOV Daniil
+Pool #4,VEMANI Lokesh,IND,5,MUSTAFIN Gabidin,KAZ,3,5-3,VEMANI Lokesh
+Pool #4,VEMANI Lokesh,IND,4,ALFUZAYA Ali,KSA,5,4-5,ALFUZAYA Ali
+Pool #4,VEMANI Lokesh,IND,5,HUANG Fohei,MAC,0,5-0,VEMANI Lokesh
+Pool #4,VEMANI Lokesh,IND,5,DELLER Thomas,AUS,2,5-2,VEMANI Lokesh
+Pool #4,ANG Zi Jaye,MAS,3,LEPIKHOV Daniil,KGZ,5,3-5,LEPIKHOV Daniil
+Pool #4,ANG Zi Jaye,MAS,2,MUSTAFIN Gabidin,KAZ,5,2-5,MUSTAFIN Gabidin
+Pool #4,ANG Zi Jaye,MAS,1,ALFUZAYA Ali,KSA,5,1-5,ALFUZAYA Ali
+Pool #4,ANG Zi Jaye,MAS,2,HUANG Fohei,MAC,5,2-5,HUANG Fohei
+Pool #4,ANG Zi Jaye,MAS,2,DELLER Thomas,AUS,5,2-5,DELLER Thomas
+Pool #4,LEPIKHOV Daniil,KGZ,4,MUSTAFIN Gabidin,KAZ,5,4-5,MUSTAFIN Gabidin
+Pool #4,LEPIKHOV Daniil,KGZ,5,ALFUZAYA Ali,KSA,1,5-1,LEPIKHOV Daniil
+Pool #4,LEPIKHOV Daniil,KGZ,4,HUANG Fohei,MAC,5,4-5,HUANG Fohei
+Pool #4,LEPIKHOV Daniil,KGZ,2,DELLER Thomas,AUS,5,2-5,DELLER Thomas
+Pool #4,MUSTAFIN Gabidin,KAZ,5,ALFUZAYA Ali,KSA,2,5-2,MUSTAFIN Gabidin
+Pool #4,MUSTAFIN Gabidin,KAZ,5,HUANG Fohei,MAC,2,5-2,MUSTAFIN Gabidin
+Pool #4,MUSTAFIN Gabidin,KAZ,5,DELLER Thomas,AUS,3,5-3,MUSTAFIN Gabidin
+Pool #4,ALFUZAYA Ali,KSA,0,HUANG Fohei,MAC,5,0-5,HUANG Fohei
+Pool #4,ALFUZAYA Ali,KSA,3,DELLER Thomas,AUS,5,3-5,DELLER Thomas
+Pool #4,HUANG Fohei,MAC,5,DELLER Thomas,AUS,3,5-3,HUANG Fohei
+Pool #5,ABED Hassan,KSA,3,YANG Zhixing,SGP,4,3-4,YANG Zhixing
+Pool #5,ABED Hassan,KSA,5,GALLANO Ruzel,PHI,1,5-1,ABED Hassan
+Pool #5,ABED Hassan,KSA,5,SANKII Livaitengis,MGL,2,5-2,ABED Hassan
+Pool #5,ABED Hassan,KSA,5,NAZMAN SHAH Ahmad Aiman Shah,MAS,1,5-1,ABED Hassan
+Pool #5,ABED Hassan,KSA,5,ABDULALI Muhammad,QAT,2,5-2,ABED Hassan
+Pool #5,ABED Hassan,KSA,1,KIM Dohyun,KOR,5,1-5,KIM Dohyun
+Pool #5,YANG Zhixing,SGP,5,GALLANO Ruzel,PHI,1,5-1,YANG Zhixing
+Pool #5,YANG Zhixing,SGP,1,SANKII Livaitengis,MGL,5,1-5,SANKII Livaitengis
+Pool #5,YANG Zhixing,SGP,5,NAZMAN SHAH Ahmad Aiman Shah,MAS,3,5-3,YANG Zhixing
+Pool #5,YANG Zhixing,SGP,5,ABDULALI Muhammad,QAT,4,5-4,YANG Zhixing
+Pool #5,YANG Zhixing,SGP,3,KIM Dohyun,KOR,5,3-5,KIM Dohyun
+Pool #5,GALLANO Ruzel,PHI,3,SANKII Livaitengis,MGL,4,3-4,SANKII Livaitengis
+Pool #5,GALLANO Ruzel,PHI,2,NAZMAN SHAH Ahmad Aiman Shah,MAS,5,2-5,NAZMAN SHAH Ahmad Aiman Shah
+Pool #5,GALLANO Ruzel,PHI,3,ABDULALI Muhammad,QAT,5,3-5,ABDULALI Muhammad
+Pool #5,GALLANO Ruzel,PHI,2,KIM Dohyun,KOR,5,2-5,KIM Dohyun
+Pool #5,SANKII Livaitengis,MGL,5,NAZMAN SHAH Ahmad Aiman Shah,MAS,4,5-4,SANKII Livaitengis
+Pool #5,SANKII Livaitengis,MGL,4,ABDULALI Muhammad,QAT,5,4-5,ABDULALI Muhammad
+Pool #5,SANKII Livaitengis,MGL,3,KIM Dohyun,KOR,5,3-5,KIM Dohyun
+Pool #5,NAZMAN SHAH Ahmad Aiman Shah,MAS,3,ABDULALI Muhammad,QAT,5,3-5,ABDULALI Muhammad
+Pool #5,NAZMAN SHAH Ahmad Aiman Shah,MAS,3,KIM Dohyun,KOR,5,3-5,KIM Dohyun
+Pool #5,ABDULALI Muhammad,QAT,3,KIM Dohyun,KOR,5,3-5,KIM Dohyun
+Pool #6,FUENTES Enrico Gabriel,PHI,5,TURISHEV Iskandar,UZB,3,5-3,FUENTES Enrico Gabriel
+Pool #6,FUENTES Enrico Gabriel,PHI,4,YUEN Nok Man,HKG,5,4-5,YUEN Nok Man
+Pool #6,FUENTES Enrico Gabriel,PHI,3,GO Dongyeon,KOR,5,3-5,GO Dongyeon
+Pool #6,FUENTES Enrico Gabriel,PHI,5,HAYES Elliot,NZL,2,5-2,FUENTES Enrico Gabriel
+Pool #6,FUENTES Enrico Gabriel,PHI,3,ROBINSON Sora,AUS,5,3-5,ROBINSON Sora
+Pool #6,FUENTES Enrico Gabriel,PHI,1,AL JADRA Abdulrahman,QAT,5,1-5,AL JADRA Abdulrahman
+Pool #6,TURISHEV Iskandar,UZB,4,YUEN Nok Man,HKG,5,4-5,YUEN Nok Man
+Pool #6,TURISHEV Iskandar,UZB,5,GO Dongyeon,KOR,1,5-1,TURISHEV Iskandar
+Pool #6,TURISHEV Iskandar,UZB,5,HAYES Elliot,NZL,2,5-2,TURISHEV Iskandar
+Pool #6,TURISHEV Iskandar,UZB,5,ROBINSON Sora,AUS,0,5-0,TURISHEV Iskandar
+Pool #6,TURISHEV Iskandar,UZB,3,AL JADRA Abdulrahman,QAT,1,3-1,TURISHEV Iskandar
+Pool #6,YUEN Nok Man,HKG,5,GO Dongyeon,KOR,4,5-4,YUEN Nok Man
+Pool #6,YUEN Nok Man,HKG,5,HAYES Elliot,NZL,1,5-1,YUEN Nok Man
+Pool #6,YUEN Nok Man,HKG,2,ROBINSON Sora,AUS,5,2-5,ROBINSON Sora
+Pool #6,YUEN Nok Man,HKG,5,AL JADRA Abdulrahman,QAT,3,5-3,YUEN Nok Man
+Pool #6,GO Dongyeon,KOR,5,HAYES Elliot,NZL,4,5-4,GO Dongyeon
+Pool #6,GO Dongyeon,KOR,5,ROBINSON Sora,AUS,2,5-2,GO Dongyeon
+Pool #6,GO Dongyeon,KOR,5,AL JADRA Abdulrahman,QAT,4,5-4,GO Dongyeon
+Pool #6,HAYES Elliot,NZL,2,ROBINSON Sora,AUS,5,2-5,ROBINSON Sora
+Pool #6,HAYES Elliot,NZL,2,AL JADRA Abdulrahman,QAT,5,2-5,AL JADRA Abdulrahman
+Pool #6,ROBINSON Sora,AUS,5,AL JADRA Abdulrahman,QAT,3,5-3,ROBINSON Sora
+Pool #7,CHOI Jeonghue,KOR,4,YUMINAGA Takayuki,JPN,5,4-5,YUMINAGA Takayuki
+Pool #7,CHOI Jeonghue,KOR,5,CHIU Sheng-Hsuan,TPE,4,5-4,CHOI Jeonghue
+Pool #7,CHOI Jeonghue,KOR,5,SUNG Ka Wing,MAC,1,5-1,CHOI Jeonghue
+Pool #7,CHOI Jeonghue,KOR,4,ALBINALI Yousef,KSA,5,4-5,ALBINALI Yousef
+Pool #7,CHOI Jeonghue,KOR,5,MALINAO John Agasti,PHI,2,5-2,CHOI Jeonghue
+Pool #7,YUMINAGA Takayuki,JPN,5,CHIU Sheng-Hsuan,TPE,1,5-1,YUMINAGA Takayuki
+Pool #7,YUMINAGA Takayuki,JPN,5,SUNG Ka Wing,MAC,1,5-1,YUMINAGA Takayuki
+Pool #7,YUMINAGA Takayuki,JPN,5,ALBINALI Yousef,KSA,1,5-1,YUMINAGA Takayuki
+Pool #7,YUMINAGA Takayuki,JPN,5,MALINAO John Agasti,PHI,2,5-2,YUMINAGA Takayuki
+Pool #7,CHIU Sheng-Hsuan,TPE,5,SUNG Ka Wing,MAC,4,5-4,CHIU Sheng-Hsuan
+Pool #7,CHIU Sheng-Hsuan,TPE,5,ALBINALI Yousef,KSA,3,5-3,CHIU Sheng-Hsuan
+Pool #7,CHIU Sheng-Hsuan,TPE,5,MALINAO John Agasti,PHI,1,5-1,CHIU Sheng-Hsuan
+Pool #7,SUNG Ka Wing,MAC,0,ALBINALI Yousef,KSA,3,0-3,ALBINALI Yousef
+Pool #7,SUNG Ka Wing,MAC,4,MALINAO John Agasti,PHI,3,4-3,SUNG Ka Wing
+Pool #7,ALBINALI Yousef,KSA,5,MALINAO John Agasti,PHI,4,5-4,ALBINALI Yousef
+Pool #8,CHEN Bing-Jyun,TPE,2,PENG Shengwei,CHN,4,2-4,PENG Shengwei
+Pool #8,CHEN Bing-Jyun,TPE,5,GOH Jinlin,AUS,2,5-2,CHEN Bing-Jyun
+Pool #8,CHEN Bing-Jyun,TPE,5,TAKHSHA Arash,IRI,2,5-2,CHEN Bing-Jyun
+Pool #8,CHEN Bing-Jyun,TPE,5,ALAWADHI Abdulaziz,KUW,4,5-4,CHEN Bing-Jyun
+Pool #8,CHEN Bing-Jyun,TPE,5,ISMOILOV Kamronbek,UZB,4,5-4,CHEN Bing-Jyun
+Pool #8,CHEN Bing-Jyun,TPE,5,SHINODA Shingo,JPN,2,5-2,CHEN Bing-Jyun
+Pool #8,PENG Shengwei,CHN,5,GOH Jinlin,AUS,3,5-3,PENG Shengwei
+Pool #8,PENG Shengwei,CHN,5,TAKHSHA Arash,IRI,3,5-3,PENG Shengwei
+Pool #8,PENG Shengwei,CHN,5,ALAWADHI Abdulaziz,KUW,2,5-2,PENG Shengwei
+Pool #8,PENG Shengwei,CHN,5,ISMOILOV Kamronbek,UZB,4,5-4,PENG Shengwei
+Pool #8,PENG Shengwei,CHN,4,SHINODA Shingo,JPN,5,4-5,SHINODA Shingo
+Pool #8,GOH Jinlin,AUS,5,TAKHSHA Arash,IRI,1,5-1,GOH Jinlin
+Pool #8,GOH Jinlin,AUS,5,ALAWADHI Abdulaziz,KUW,3,5-3,GOH Jinlin
+Pool #8,GOH Jinlin,AUS,5,ISMOILOV Kamronbek,UZB,4,5-4,GOH Jinlin
+Pool #8,GOH Jinlin,AUS,1,SHINODA Shingo,JPN,5,1-5,SHINODA Shingo
+Pool #8,TAKHSHA Arash,IRI,0,ALAWADHI Abdulaziz,KUW,5,0-5,ALAWADHI Abdulaziz
+Pool #8,TAKHSHA Arash,IRI,4,ISMOILOV Kamronbek,UZB,5,4-5,ISMOILOV Kamronbek
+Pool #8,TAKHSHA Arash,IRI,4,SHINODA Shingo,JPN,5,4-5,SHINODA Shingo
+Pool #8,ALAWADHI Abdulaziz,KUW,2,ISMOILOV Kamronbek,UZB,5,2-5,ISMOILOV Kamronbek
+Pool #8,ALAWADHI Abdulaziz,KUW,5,SHINODA Shingo,JPN,1,5-1,ALAWADHI Abdulaziz
+Pool #8,ISMOILOV Kamronbek,UZB,5,SHINODA Shingo,JPN,3,5-3,ISMOILOV Kamronbek
+Pool #9,ONG Azfar Luqman,SGP,5,CHIANG Chi Hang,MAC,0,5-0,ONG Azfar Luqman
+Pool #9,ONG Azfar Luqman,SGP,4,ALBLOOSHI Saleh,UAE,5,4-5,ALBLOOSHI Saleh
+Pool #9,ONG Azfar Luqman,SGP,5,LEE Rang,TPE,3,5-3,ONG Azfar Luqman
+Pool #9,ONG Azfar Luqman,SGP,2,ALNAKKAS Ali,KUW,5,2-5,ALNAKKAS Ali
+Pool #9,ONG Azfar Luqman,SGP,5,AL-ABDALLAT Monther,JOR,1,5-1,ONG Azfar Luqman
+Pool #9,CHIANG Chi Hang,MAC,1,ALBLOOSHI Saleh,UAE,5,1-5,ALBLOOSHI Saleh
+Pool #9,CHIANG Chi Hang,MAC,2,LEE Rang,TPE,5,2-5,LEE Rang
+Pool #9,CHIANG Chi Hang,MAC,2,ALNAKKAS Ali,KUW,5,2-5,ALNAKKAS Ali
+Pool #9,CHIANG Chi Hang,MAC,5,AL-ABDALLAT Monther,JOR,4,5-4,CHIANG Chi Hang
+Pool #9,ALBLOOSHI Saleh,UAE,4,LEE Rang,TPE,5,4-5,LEE Rang
+Pool #9,ALBLOOSHI Saleh,UAE,3,ALNAKKAS Ali,KUW,5,3-5,ALNAKKAS Ali
+Pool #9,ALBLOOSHI Saleh,UAE,5,AL-ABDALLAT Monther,JOR,2,5-2,ALBLOOSHI Saleh
+Pool #9,LEE Rang,TPE,2,ALNAKKAS Ali,KUW,5,2-5,ALNAKKAS Ali
+Pool #9,LEE Rang,TPE,5,AL-ABDALLAT Monther,JOR,0,5-0,LEE Rang
+Pool #9,ALNAKKAS Ali,KUW,5,AL-ABDALLAT Monther,JOR,0,5-0,ALNAKKAS Ali
+Pool #10,GAO Ying Chuen,HKG,5,BALL LA HOOD Joel,NZL,3,5-3,GAO Ying Chuen
+Pool #10,GAO Ying Chuen,HKG,5,BYAMBATSOGT Chinguun,MGL,0,5-0,GAO Ying Chuen
+Pool #10,GAO Ying Chuen,HKG,1,TINNIKOV Georgiy,KAZ,5,1-5,TINNIKOV Georgiy
+Pool #10,GAO Ying Chuen,HKG,5,LEE Chi On,MAC,0,5-0,GAO Ying Chuen
+Pool #10,GAO Ying Chuen,HKG,5,ALHARBAN Rakan,KUW,1,5-1,GAO Ying Chuen
+Pool #10,BALL LA HOOD Joel,NZL,5,BYAMBATSOGT Chinguun,MGL,3,5-3,BALL LA HOOD Joel
+Pool #10,BALL LA HOOD Joel,NZL,2,TINNIKOV Georgiy,KAZ,5,2-5,TINNIKOV Georgiy
+Pool #10,BALL LA HOOD Joel,NZL,5,LEE Chi On,MAC,3,5-3,BALL LA HOOD Joel
+Pool #10,BALL LA HOOD Joel,NZL,5,ALHARBAN Rakan,KUW,3,5-3,BALL LA HOOD Joel
+Pool #10,BYAMBATSOGT Chinguun,MGL,4,TINNIKOV Georgiy,KAZ,5,4-5,TINNIKOV Georgiy
+Pool #10,BYAMBATSOGT Chinguun,MGL,5,LEE Chi On,MAC,4,5-4,BYAMBATSOGT Chinguun
+Pool #10,BYAMBATSOGT Chinguun,MGL,0,ALHARBAN Rakan,KUW,5,0-5,ALHARBAN Rakan
+Pool #10,TINNIKOV Georgiy,KAZ,5,LEE Chi On,MAC,2,5-2,TINNIKOV Georgiy
+Pool #10,TINNIKOV Georgiy,KAZ,5,ALHARBAN Rakan,KUW,3,5-3,TINNIKOV Georgiy
+Pool #10,LEE Chi On,MAC,1,ALHARBAN Rakan,KUW,5,1-5,ALHARBAN Rakan
+Pool #11,DAJANI Ja'afar,JOR,1,WONG Chi Ho,HKG,5,1-5,WONG Chi Ho
+Pool #11,DAJANI Ja'afar,JOR,5,ALKHLIF Ali,QAT,2,5-2,DAJANI Ja'afar
+Pool #11,DAJANI Ja'afar,JOR,3,SU Zhiwei,CHN,5,3-5,SU Zhiwei
+Pool #11,DAJANI Ja'afar,JOR,5,ALZAMEL Ghazi,KUW,4,5-4,DAJANI Ja'afar
+Pool #11,DAJANI Ja'afar,JOR,1,TIMUROV Meyirkhan,UZB,5,1-5,TIMUROV Meyirkhan
+Pool #11,WONG Chi Ho,HKG,5,ALKHLIF Ali,QAT,1,5-1,WONG Chi Ho
+Pool #11,WONG Chi Ho,HKG,5,SU Zhiwei,CHN,1,5-1,WONG Chi Ho
+Pool #11,WONG Chi Ho,HKG,5,ALZAMEL Ghazi,KUW,2,5-2,WONG Chi Ho
+Pool #11,WONG Chi Ho,HKG,1,TIMUROV Meyirkhan,UZB,5,1-5,TIMUROV Meyirkhan
+Pool #11,ALKHLIF Ali,QAT,3,SU Zhiwei,CHN,5,3-5,SU Zhiwei
+Pool #11,ALKHLIF Ali,QAT,4,ALZAMEL Ghazi,KUW,5,4-5,ALZAMEL Ghazi
+Pool #11,ALKHLIF Ali,QAT,1,TIMUROV Meyirkhan,UZB,5,1-5,TIMUROV Meyirkhan
+Pool #11,SU Zhiwei,CHN,5,ALZAMEL Ghazi,KUW,1,5-1,SU Zhiwei
+Pool #11,SU Zhiwei,CHN,0,TIMUROV Meyirkhan,UZB,1,0-1,TIMUROV Meyirkhan
+Pool #11,ALZAMEL Ghazi,KUW,3,TIMUROV Meyirkhan,UZB,5,3-5,TIMUROV Meyirkhan
+Pool #12,DEL CASTILLO Oscar Gabriel,PHI,4,SHI Jinze,CHN,5,4-5,SHI Jinze
+Pool #12,DEL CASTILLO Oscar Gabriel,PHI,1,FAYZIEV Ahmadjon,UZB,5,1-5,FAYZIEV Ahmadjon
+Pool #12,DEL CASTILLO Oscar Gabriel,PHI,5,JOSHI Balram,IND,3,5-3,DEL CASTILLO Oscar Gabriel
+Pool #12,DEL CASTILLO Oscar Gabriel,PHI,5,NAMAZI Ali,IRI,2,5-2,DEL CASTILLO Oscar Gabriel
+Pool #12,DEL CASTILLO Oscar Gabriel,PHI,4,SALEH Mohammad,JOR,5,4-5,SALEH Mohammad
+Pool #12,SHI Jinze,CHN,5,FAYZIEV Ahmadjon,UZB,4,5-4,SHI Jinze
+Pool #12,SHI Jinze,CHN,5,JOSHI Balram,IND,2,5-2,SHI Jinze
+Pool #12,SHI Jinze,CHN,5,NAMAZI Ali,IRI,3,5-3,SHI Jinze
+Pool #12,SHI Jinze,CHN,5,SALEH Mohammad,JOR,3,5-3,SHI Jinze
+Pool #12,FAYZIEV Ahmadjon,UZB,2,JOSHI Balram,IND,5,2-5,JOSHI Balram
+Pool #12,FAYZIEV Ahmadjon,UZB,5,NAMAZI Ali,IRI,4,5-4,FAYZIEV Ahmadjon
+Pool #12,FAYZIEV Ahmadjon,UZB,5,SALEH Mohammad,JOR,4,5-4,FAYZIEV Ahmadjon
+Pool #12,JOSHI Balram,IND,2,NAMAZI Ali,IRI,5,2-5,NAMAZI Ali
+Pool #12,JOSHI Balram,IND,5,SALEH Mohammad,JOR,2,5-2,JOSHI Balram
+Pool #12,NAMAZI Ali,IRI,5,SALEH Mohammad,JOR,1,5-1,NAMAZI Ali
+Pool #13,HAZAZI Ahmed,KSA,5,SUN QI Cevin,SGP,3,5-3,HAZAZI Ahmed
+Pool #13,HAZAZI Ahmed,KSA,5,ALNASER Abdallah,JOR,3,5-3,HAZAZI Ahmed
+Pool #13,HAZAZI Ahmed,KSA,4,ISLAMOV Rustam,KGZ,5,4-5,ISLAMOV Rustam
+Pool #13,HAZAZI Ahmed,KSA,5,PETERSON Nolan,NZL,1,5-1,HAZAZI Ahmed
+Pool #13,HAZAZI Ahmed,KSA,5,XIA Boyang,CHN,2,5-2,HAZAZI Ahmed
+Pool #13,SUN QI Cevin,SGP,4,ALNASER Abdallah,JOR,1,4-1,SUN QI Cevin
+Pool #13,SUN QI Cevin,SGP,5,ISLAMOV Rustam,KGZ,3,5-3,SUN QI Cevin
+Pool #13,SUN QI Cevin,SGP,4,PETERSON Nolan,NZL,5,4-5,PETERSON Nolan
+Pool #13,SUN QI Cevin,SGP,2,XIA Boyang,CHN,5,2-5,XIA Boyang
+Pool #13,ALNASER Abdallah,JOR,4,ISLAMOV Rustam,KGZ,5,4-5,ISLAMOV Rustam
+Pool #13,ALNASER Abdallah,JOR,5,PETERSON Nolan,NZL,3,5-3,ALNASER Abdallah
+Pool #13,ALNASER Abdallah,JOR,1,XIA Boyang,CHN,5,1-5,XIA Boyang
+Pool #13,ISLAMOV Rustam,KGZ,5,PETERSON Nolan,NZL,4,5-4,ISLAMOV Rustam
+Pool #13,ISLAMOV Rustam,KGZ,5,XIA Boyang,CHN,4,5-4,ISLAMOV Rustam
+Pool #13,PETERSON Nolan,NZL,2,XIA Boyang,CHN,5,2-5,XIA Boyang
